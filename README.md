@@ -1,14 +1,15 @@
-Data Job Postings Analysis (2023)
-Project Overview
+**Data Job Postings Analysis (2023)**
+
+**Project Overview**
 This project involves the analysis of a dataset containing job postings from 2023, specifically focusing on data-related roles. The dataset includes several tables that provide information about companies, job postings, skills, and the relationship between jobs and required skills. The goal of the project was to identify relevant job opportunities for Israeli employees, discover the top-paying skills for Israeli data analysts, and analyze which skills are most in demand for data analyst roles in Israel.
 
-Dataset Description
+**Dataset Description**
 The dataset consists of the following tables:
 
-company_dim: Contains data about companies that have posted job listings.
-job_postings_fact: Includes detailed information about the jobs posted, such as job title, location, salary, and other relevant details.
-skills_dim: Contains data about the various skills mentioned in the job postings.
-skills_job_dim: Maps skills to specific job postings, detailing which skills are required for which jobs.
+-company_dim:Contains data about companies that have posted job listings.
+-job_postings_fact: Includes detailed information about the jobs posted, such as job title, location, salary, and other relevant details.
+-skills_dim: Contains data about the various skills mentioned in the job postings.
+-skills_job_dim: Maps skills to specific job postings, detailing which skills are required for which jobs.
 Project Objectives
 Identify Relevant Jobs for Israeli Employees:
 
